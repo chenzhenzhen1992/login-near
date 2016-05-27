@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CSS</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="welcome_title">Welcome</string>
+    <string name="welcome_text">Welcome</string>
+    <string name="register">register</string>
+    <string name="login">login</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="user_email">email</string>
+    <string name="user_password">password</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="user_name">name</string>
+    <string name="user_password_confirmation">password confirmation</string>
+    <string name="register_disclaimer">disclaimer</string>
+    <string name="action_settings">附近的人</string>
+    <string name="name">用户名：</string>
+    <string name="describe">签名：</string>
+    <string name="menu_refresh">刷新</string>
+    <string name="menu_submit">刷新</string>
+
+
+</resources>
